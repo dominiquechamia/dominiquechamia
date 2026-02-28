@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Dominique 
 
-<!--
-**dominiquechamia/dominiquechamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Futura Ingeniera en Informática | INACAP**
+*Enfocada en construir soluciones sólidas, diseño funcional y lógica de programación.*
 
-Here are some ideas to get you started:
+##  Sobre mí
+-  Estudiante de Ingeniería en Informática en formación.
+-  Con interés en el sector industrial.
+-  Además de la tecnología, disfruto de las disciplinas creativas y manuales como la costura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Portafolio en Construcción
+Actualmente estoy desarrollando los siguientes proyectos para mi portafolio profesional (pueden ser modificados en el proceso):
+
+1. **Dashboard de Monitoreo Industrial:** Visualización de KPIs y estado de servidores (Power BI/Web).
+2. **Sistema de Inventario TI:** Aplicación para gestión de activos tecnológicos en oficinas.
+3. **Simulación de Red Segura:** Diseño de topología Planta-Oficina con Firewall (Cisco Packet Tracer).
+
+##  Habilidades en desarrollo
+- **Redes:** Networking Basics (Cisco).
+- **Datos:** Power BI y Excel Avanzado.
+- **Seguridad:** Introducción a la Ciberseguridad.
+
+---
+ **¿Cómo contactarme?**
+- Conectemos en [LinkedIn](https://linkedin.com/in/dominiquechamia) 
