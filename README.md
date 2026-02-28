@@ -1,6 +1,7 @@
 # ¡Hola! Soy Dominique 
 
 **Futura Ingeniera en Informática | INACAP**
+
 *Enfocada en construir soluciones sólidas, diseño funcional y lógica de programación.*
 
 ##  Sobre mí
