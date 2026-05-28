@@ -28,7 +28,6 @@ Actualmente estoy desarrollando los siguientes proyectos para mi portafolio prof
 * **Ciberseguridad:** Junior Cybersecurity Analyst.
 
 ---
- Estoy en busca de mi práctica profesional y de mi primer desafío laboral en el sector industriaL.
  
  **¿Cómo contactarme?**
 - Conectemos en [LinkedIn](https://linkedin.com/in/dominiquechamia) 
