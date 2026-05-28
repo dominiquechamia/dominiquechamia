@@ -20,12 +20,12 @@ Actualmente estoy desarrollando los siguientes proyectos para mi portafolio prof
 
 ### Software & Datos
 * **Lenguajes:** Python (en optimización), SQL (PostgreSQL / SQL Server).
-* **Análisis y BI:** Power BI, Excel Avanzado (Ruta Santander Academy).
+* **Análisis y BI:** Power BI, Excel.
 
 ### Infraestructura & Seguridad (Cisco Networking Academy / NDG)
-* **Sistemas Operativos:** Linux (Ruta Linux Essentials / NDG Unhatched).
-* **Redes y IoT:** Cisco Packet Tracer (Exploración de Redes e IoT Industrial).
-* **Ciberseguridad:** Junior Cybersecurity Analyst (Defensa de la Red y Administración de Amenazas).
+* **Sistemas Operativos:** Linux.
+* **Redes y IoT:** Cisco Packet Tracer.
+* **Ciberseguridad:** Junior Cybersecurity Analyst.
 
 ---
  **¿Cómo contactarme?**
