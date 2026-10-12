@@ -16,17 +16,25 @@ Actualmente estoy desarrollando los siguientes proyectos para mi portafolio prof
 2. **Sistema de Inventario TI:** Aplicación para gestión de activos tecnológicos en oficinas.
 3. **Simulación de Red Segura:** Diseño de topología Planta-Oficina con Firewall (Cisco Packet Tracer).
 
-## Stack y Certificaciones en Ruta
+## Stack tecnológico y certificaciones en ruta
 
-### Software & Datos
-* **Lenguajes:** Python (en optimización), SQL (PostgreSQL / SQL Server).
-* **Análisis y BI:** Power BI, Excel.
+### Software, Programación y Datos
+- **Programación:** Python (fundamentos en consolidación), HTML y JavaScript (en aprendizaje).
+- **Bases de datos:** SQL básico.
+- **Análisis y Business Intelligence:** Excel, Power BI (formación en curso).
 
-### Infraestructura & Seguridad (Cisco Networking Academy / NDG)
-* **Sistemas Operativos:** Linux.
-* **Redes y IoT:** Cisco Packet Tracer.
-* **Ciberseguridad:** Junior Cybersecurity Analyst.
+### Infraestructura y Redes
+- **Redes:** Cisco Packet Tracer (formación en curso).
+- **Sistemas operativos:** Linux (formación pendiente de consolidación).
+- **Ciberseguridad:** Fundamentos de ciberseguridad (por estudiar).
 
+### Formación y Certificaciones en Ruta
+- Fundamentos de Python 2 — Cisco Networking Academy.
+- Fundamentos de Análisis de Datos — Cisco Networking Academy.
+- Power BI — nivel introductorio e intermedio.
+- English for IT 1 y 2 — Cisco Networking Academy.
+- Conceptos básicos de redes — Cisco Networking Academy.
+- Introducción a Cisco Packet Tracer — Cisco Networking Academy.
 ---
  
  **¿Cómo contactarme?**
