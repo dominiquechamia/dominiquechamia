@@ -15,6 +15,7 @@ Actualmente estoy desarrollando los siguientes proyectos para mi portafolio prof
 1. **Dashboard de Monitoreo Industrial:** Visualización de KPIs y estado de servidores (Power BI/Web).
 2. **Sistema de Inventario TI:** Aplicación para gestión de activos tecnológicos en oficinas.
 3. **Simulación de Red Segura:** Diseño de topología Planta-Oficina con Firewall (Cisco Packet Tracer).
+4. **Sistema de Gestión de Incidencias TI:** Plataforma para registrar problemas informáticos, asignar técnicos, controlar prioridades y realizar seguimiento de incidentes en una empresa. (En evaluación)
 
 ## Stack tecnológico y certificaciones en ruta
 
